@@ -8,7 +8,7 @@ Monte-Carlo path tracing for global illumination.
 - Acceleration structure: uniform grid
 - Soft shadow and indirect lighting
 - Surface reflection with perfect diffusion, specular and transmission effects
-- OpenMP for multi-threading rendering.
+- OpenMP for multi-threading rendering
 
 
 ## Usage
